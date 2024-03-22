@@ -1,0 +1,13 @@
+.message-container {
+    width: 10px; /* Adjust the width of the container */
+    height: 10px; /* Adjust the height of the container */
+    border: 1px solid #ccc; /* Add border for visual clarity */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 50px; /* Adjust the width of the logo */
+    height: 50px; /* Adjust the height of the logo */
+}
